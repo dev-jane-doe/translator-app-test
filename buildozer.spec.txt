@@ -10,5 +10,5 @@ package.domain = Kraka
 version = 0.1
 source.dir = .
 requirements = kivy == 2.3.0, kivymd == 1.2.0, translate == 3.6.1
-icon.filename = josine.png
+#icon.filename = josine.png
 #icon.filename = %(source.dir)s/data/icon.png
