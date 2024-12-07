@@ -1,0 +1,13 @@
+##############################################################################
+# about buildozer.spec : https://buildozer.readthedocs.io/en/latest/specifications.html
+##############################################################################
+
+[app]
+
+title = "Josines magic app",
+package.name = "JosinesPackage",
+package.domain = "Kraka",
+version = "0.1,
+source.dir = .,
+requirements = kivy == 2.3.0, kivymd == 1.2.0, translate == 3.6.1
+icon = "josine.png"
